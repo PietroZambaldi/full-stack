@@ -54,6 +54,21 @@ body {
     width: 600px;
 }
 
+.containerimg{
+    display:flex;
+    justify-content: space-around;
+}
+
+.containeriframe{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.containertabela{
+    display: flex;
+    justify-content: center;
+}
 
 
 
@@ -72,9 +87,9 @@ body {
     color: #808080
 }
 
-#nomeil {
+/*#nomeil {
     color: #ff0000
-}
+}*/
 
 #desejamos {
    font-size: 15px;
